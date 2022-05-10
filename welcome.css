@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+}
+
+
+#container{
+   
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+    border-radius: 4px ;
+    height: 430px;
+    width: 750px;
+    margin: auto;
+    text-align: center;
+background-color: #f0f4bf;
+}
